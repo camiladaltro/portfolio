@@ -1,6 +1,6 @@
 # Meu Portfólio • My Portfolio
 
-• Salários de Data Science [PT-BR]
+• Salários de Data Science [PT-BR]: https://github.com/camiladaltro/portfolio/blob/main/salarios_data_science.ipynb
 
 Ferramentas utilizadas: pandas, numpy, seaborn, matplotlib
 
