@@ -58,9 +58,6 @@ ORDER BY age
 SELECT COUNT(lung_cancer) FROM survey_lung_cancer
 WHERE smoking = '2' AND lung_cancer = 'YES'
 
-SELECT COUNT(lung_cancer) FROM survey_lung_cancer
-WHERE gender = 'M' AND smoking = '2' AND lung_cancer = 'YES'
-
 -- Number of diagnosed patients who consume alcohol
 SELECT COUNT(lung_cancer) FROM survey_lung_cancer
 WHERE alcohol_consuming = '2' AND lung_cancer = 'YES'
