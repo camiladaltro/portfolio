@@ -10,6 +10,6 @@ Ferramentas utilizadas: pandas, numpy, seaborn, matplotlib
 Tools: pandas, numpy, seaborn, matplotlib
 
 
-• Lung Cancer Survey [EN]:
+• Lung Cancer Survey [EN]: https://github.com/camiladaltro/portfolio/tree/main/lung_cancer_survey
 
 Tools: PostgreSQL
