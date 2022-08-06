@@ -1,4 +1,4 @@
-# Meu Portfólio • My Portfolio
+# Portfolio
 
 • Salários de Data Science [PT-BR] (pandas, numpy, seaborn, matplotlib): [here](https://github.com/camiladaltro/portfolio/blob/main/salarios_data_science.ipynb) / [dataset](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)
 
