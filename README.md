@@ -9,5 +9,5 @@
 
 • Internet Prices [EN] (pandas, pandaSQL, google data studio): [code](https://github.com/camiladaltro/portfolio/blob/main/internet_prices_all_csv.ipynb) / [visualization](https://datastudio.google.com/reporting/ecab9e44-3cb8-436c-b7fc-5b96fb1b7ba6/page/kpAzC) / [dataset](https://www.kaggle.com/datasets/ramjasmaurya/1-gb-internet-price)
 
-• Brain Stroke (EDA) [EN] (pandas, seaborn, matplotlib): [code](https://github.com/camiladaltro/portfolio/blob/main/brain_stroke_eda.ipynb) / [dataset](https://www.kaggle.com/datasets/jillanisofttech/brain-stroke-dataset)
+• Brain Stroke [EN] (pandas, seaborn, matplotlib): [code](https://github.com/camiladaltro/portfolio/blob/main/brain_stroke_eda.ipynb) / [dataset](https://www.kaggle.com/datasets/jillanisofttech/brain-stroke-dataset)
 
