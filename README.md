@@ -1,10 +1,11 @@
 # Portfolio
 
-• Data Science Job Salaries (SQL, google data studio): [code](https://github.com/camiladaltro/portfolio/tree/main/ds_salaries) / [visualization](https://datastudio.google.com/reporting/38bfa77d-5453-45ac-8574-0ba8f2382781/page/mq0zC) / [dataset](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)
+### ABOUT ME
+I'm a self-taught data analyst who wants to learn more and adapt to current demands. The passion for discovering new and old things motivates me to continue studying and the desire to work. 
 
-• Supermarket store branches sales analysis (SQL, google data studio): [code](https://github.com/camiladaltro/portfolio/tree/main/stores) / [visualization](https://datastudio.google.com/reporting/bf76494d-17ab-4f9b-b9ac-6efb58186959/page/z1vzC) / [dataset](https://www.kaggle.com/datasets/surajjha101/stores-area-and-sales-data)
+This portfolio was created in order to show my skills using programming and visualization languages. I use a lot of SQL and Python for analysis and I build visualizations with Google Data Studio.
 
-• Brain Stroke (pandas, seaborn, matplotlib): [code](https://github.com/camiladaltro/portfolio/blob/main/brain_stroke_eda.ipynb) / [dataset](https://www.kaggle.com/datasets/jillanisofttech/brain-stroke-dataset)
+### SAMPLE PROJECTS
+• Data Science Salaries – using SQL and Google Data Studio – [code](https://github.com/camiladaltro/portfolio/tree/main/ds_salaries) / [visualization](https://datastudio.google.com/reporting/38bfa77d-5453-45ac-8574-0ba8f2382781/page/mq0zC) / [original dataset](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)
 
-• CO2 Emission of Cars (pandas, numpy, seaborn, matplotlib): [code](https://github.com/camiladaltro/portfolio/blob/main/co2_emission_eda.ipynb) / [dataset](https://www.kaggle.com/datasets/midhundasl/co2-emission-of-cars-dataset)
-
+• Supermarket store branches sales analysis – using Python – [code](https://github.com/camiladaltro/portfolio/blob/main/stores_sales.ipynb) / [original dataset](https://www.kaggle.com/datasets/surajjha101/stores-area-and-sales-data)
